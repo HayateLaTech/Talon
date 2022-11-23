@@ -1,5 +1,12 @@
 <template>
   <div>
-    <div class="alert alert-info">Hewwo!</div>
+    <Navbar/>
+
+    <main class="mt-3">
+      <NuxtLayout>
+        <NuxtPage />
+      </NuxtLayout>
+    </main>
   </div>
 </template>
+
