@@ -7,7 +7,7 @@ export default defineNuxtConfig({
             ],
             bodyAttrs: {
                 class: "bg-dark text-white"
-            }
+            },
         },
     },
     typescript: {
@@ -38,7 +38,6 @@ export default defineNuxtConfig({
         lazy: true,
         vueI18n: {
             fallbackLocale: "en",
-
         }
     },
     unocss: {

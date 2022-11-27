@@ -19,6 +19,7 @@
     "@nuxtjs/i18n-edge": "^8.0.0-beta.4-27817449.b065900",
     "@popperjs/core": "^2.11.6",
     "bootstrap": "^5.2.2",
+    "jspdf": "^2.5.1",
     "sass-loader": "^13.2.0",
     "vue-country-flag-next": "^2.3.2"
   }

@@ -1,3 +1,7 @@
+<script setup>
+  const { $bootstrap } = useNuxtApp()
+</script>
+
 <template>
   <div>
     <Navbar/>

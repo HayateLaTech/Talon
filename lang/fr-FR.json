@@ -2,5 +2,16 @@
     "index" : {
         "title" : "Je m'appelle Darth Talon",
         "subtitle" : "ou s'appelle Dark Talon de France!"
+    },
+    "navbar" : {
+        "brand" : "Talon",
+        "Sheets" : "Sheets",
+        "Change_Language" : "Change Language"
+    },
+    "pages" : {
+        "swrpcharsheet" : {
+            "title" : "Star Wars RP Character Sheet",
+            "subtitle": "Create your own Character Sheet!"
+        }
     }
 }

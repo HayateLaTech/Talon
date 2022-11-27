@@ -1,6 +1,39 @@
 {
-    "index" : {
-        "title" : "Welcome to Talon",
-        "subtitle" : "the Character Sheet creator for Star Wars!"
+  "index": {
+    "title": "Welcome to Talon",
+    "subtitle": "the Character Sheet creator for Star Wars!"
+  },
+  "navbar": {
+    "brand": "Talon",
+    "Sheets": "Sheets",
+    "Change_Language": "Change Language"
+  },
+  "pages": {
+    "swrpcharsheet": {
+      "title": "Star Wars RP Character Sheet",
+      "subtitle": "Your adventure awaits!",
+      "sheet": {
+        "characterName" : "Character Name",
+        "player" : "Player",
+        "species" : "Species",
+        "gender" : "Gender",
+        "height" : "Height",
+        "hair" : "Hair",
+        "eyes" : "Eyes",
+        "age" : "Age",
+        "build" : "Build",
+        "notableFeatures" : "Notable Features",
+        "Wounds" : "Wounds",
+        "Strain" : "Strain",
+        "Threshold" : "Threshold",
+        "Current" : "Current",
+        "career" : "Career",
+        "specializations" : "Specializations",
+        "SoakValue" : "Soak Value",
+        "defense" : "Defense",
+        "ranged" : "Ranged",
+        "melee" : "Melee"
+      }
     }
+  }
 }
